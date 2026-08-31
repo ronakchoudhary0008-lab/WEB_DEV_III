@@ -1,0 +1,24 @@
+{
+  "name": "smart-utility-toolkit",
+  "version": "1.0.0",
+  "description": "Lab Assignment 1 - Smart Utility Toolkit (Web Dev III - Node.js & Express Backend)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "calc": "node calculator.js",
+    "app": "node app.js",
+    "server": "node server.js",
+    "files": "node fileManager.js",
+    "dice": "node dice.js"
+  },
+  "keywords": [
+    "nodejs",
+    "core-modules",
+    "http",
+    "fs",
+    "crypto",
+    "process"
+  ],
+  "author": "Lokesh Verma",
+  "license": "ISC"
+}

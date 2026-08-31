@@ -1,0 +1,3 @@
+Smart Utility Toolkit - Test File
+Web Dev III (Node.js & Express Backend)
+This file is used for testing file system (fs) operations.
